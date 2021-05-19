@@ -1,12 +1,12 @@
-# README #
+# Lottie Animations #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Thisproject will provide info about using lottie animations in onboarding screens
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Lottie Animations
+* Version: 1
+* [Learn Markdown](https://lottiefiles.com/)
 
 ### How do I get set up? ###
 
@@ -27,3 +27,6 @@ This README would normally document whatever steps are necessary to get your app
 
 * Repo owner or admin
 * Other community or team contact
+
+### The App
+
